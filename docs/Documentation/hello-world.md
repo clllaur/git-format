@@ -10,6 +10,21 @@ excerpt: >-
 
 The official JavaScript SDK for integrating Convert.com's Fullstack experimentation platform. Run A/B tests, feature flags, and feature rollouts in Node.js and browser environments.
 
+#
+
+## Quick Install
+
+<br />
+
+```
+```
+
+<br />
+
+<br />
+
+The official JavaScript SDK for integrating Convert.com's Fullstack experimentation platform. Run A/B tests, feature flags, and feature rollouts in Node.js and browser environments.
+
 <br />
 
 ## Quick Install
@@ -141,11 +156,11 @@ The SDK supports both **Node.js** and **browser** environments:
 
 
 
-- [GitHub Repository](https://github.com/convertcom/javascript-sdk) — Source code and issue tracker
+- GitHub Repository — Source code and issue tracker
 
-- [Convert.com](https://www.convert.com/) — Main product website
+- Convert.com — Main product website
 
-- [Apache-2.0 License](https://choosealicense.com/licenses/apache-2.0/) — Open source license
+- Apache-2.0 License — Open source license
 
 
 
@@ -153,5 +168,5 @@ The SDK supports both **Node.js** and **browser** environments:
 
 
 
-Head to the Installation section to get started. For an in-depth understanding of the SDK internals, explore the Core Modules documentation.
+Head to the About section to learn more about the SDK, or jump straight to Installation to get started. For an in-depth understanding of the SDK internals, explore the Core Modules documentation.
 ````
